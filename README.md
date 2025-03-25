@@ -76,5 +76,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemzayed&show_icons=true&locale=en&layout=compact" alt="kareemzayed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kareemzayed&show_icons=true&locale=en" alt="kareemzayed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemzayed&" alt="kareemzayed" /></p>
